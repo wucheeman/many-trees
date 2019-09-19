@@ -7,7 +7,7 @@ hr {
 }
 
 .hero-image {
-    background-image: url("../img/jumbo_original.jpg");
+    background-image: url("../img/farm_banner_20190919.png");
     /* TO darken image so text is more easily read, see 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
     NOTE: values make it too dark; need to experiment */
